@@ -1,0 +1,2 @@
+model_checkpoint_path: "skynet.ckpt"
+all_model_checkpoint_paths: "skynet.ckpt"
